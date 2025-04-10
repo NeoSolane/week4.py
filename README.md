@@ -1,4 +1,4 @@
-# week4.p
+# week4.py
 READ AND WRITE CHALLENGE
 
 def modify_content(line):
